@@ -1,0 +1,547 @@
+﻿  ConeAttribute.cpp
+  CubeAttribute.cpp
+  CubeRoundAttribute.cpp
+  EmptyCylinderAttribute.cpp
+  CylinderAttribute.cpp
+  PictureAttribute.cpp
+  PyramidAttribute.cpp
+  Quaternion.cpp
+  Source.cpp
+Source.cpp(529): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Source.cpp(530): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Source.cpp(534): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Source.cpp(535): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Source.cpp(536): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Source.cpp(577): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(585): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(586): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(587): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(588): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(594): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(602): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(603): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(604): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(605): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(611): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(619): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(620): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(621): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(622): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(627): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(635): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(636): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(637): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(638): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(644): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(652): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(653): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(654): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(655): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(664): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(672): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(673): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(674): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(675): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(680): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(688): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(689): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(690): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(691): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Source.cpp(1037): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Source.cpp(1041): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Source.cpp(1043): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Source.cpp(1046): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Source.cpp(1093): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Source.cpp(2348): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(2420): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(2507): warning C4244: 'initializing': conversion from 'GLdouble' to 'float', possible loss of data
+Source.cpp(2547): warning C4244: 'initializing': conversion from 'GLdouble' to 'float', possible loss of data
+Source.cpp(2590): warning C4244: '=': conversion from 'GLdouble' to 'float', possible loss of data
+Source.cpp(3443): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Source.cpp(3669): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+Source.cpp(3673): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+Source.cpp(3709): warning C4244: '=': conversion from 'GLdouble' to 'float', possible loss of data
+Source.cpp(3710): warning C4244: '=': conversion from 'GLdouble' to 'float', possible loss of data
+Source.cpp(3711): warning C4244: '=': conversion from 'GLdouble' to 'float', possible loss of data
+Source.cpp(4079): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Source.cpp(4090): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Source.cpp(4094): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Source.cpp(4105): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Source.cpp(4109): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Source.cpp(4120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Source.cpp(4256): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Source.cpp(4268): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Source.cpp(4272): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Source.cpp(4284): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Source.cpp(4287): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Source.cpp(4299): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Source.cpp(4304): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Source.cpp(4317): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Source.cpp(4351): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Source.cpp(4379): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Source.cpp(4846): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Source.cpp(5372): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  SphereAttribute.cpp
+  SqlServerConnect.cpp
+SqlServerConnect.cpp(21): warning C4244: 'argument': conversion from 'SQLINTEGER' to 'SQLSMALLINT', possible loss of data
+SqlServerConnect.cpp(3209): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3213): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3217): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3221): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3225): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3229): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3233): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3237): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3281): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3285): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3289): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3293): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3297): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3301): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3305): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3309): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3353): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3357): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3361): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3365): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3369): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3373): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3377): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3381): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3425): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3429): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3433): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3453): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3457): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3461): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3465): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3469): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3473): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3517): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3521): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3525): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3541): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3545): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3549): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3553): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3557): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3601): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3605): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3609): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3621): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3625): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3629): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3633): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3637): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3641): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3645): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3649): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3653): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3697): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3701): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3705): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3709): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3713): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3733): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3737): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3741): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3745): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3749): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3793): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3797): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3801): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3805): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3809): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3813): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3833): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3837): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3841): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3845): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3849): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3893): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3897): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3901): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3905): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3909): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3913): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3917): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3921): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3941): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3945): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3949): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3953): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(3957): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4001): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4005): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4009): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4013): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4017): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4021): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4033): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4037): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4041): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4045): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4049): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4149): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4153): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4216): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4220): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4283): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4287): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4350): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4354): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4417): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4421): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4484): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4488): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4550): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4554): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4617): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4621): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4684): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4688): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4773): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4777): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4840): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4844): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4907): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4911): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4974): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(4978): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(5041): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(5045): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(5108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(5112): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(5175): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(5179): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(5242): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(5246): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(5309): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(5313): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(5830): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(5833): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(5837): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SqlServerConnect.cpp(6155): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SuppostForApp.cpp
+SuppostForApp.cpp(156): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(784): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(789): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(790): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(841): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(846): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(847): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(899): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(904): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(905): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(963): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(964): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(966): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(967): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(1313): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+SuppostForApp.cpp(1317): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(1318): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(1350): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(1351): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(1852): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(1853): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(1893): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(1894): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(2018): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(2019): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(2060): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(2061): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(2280): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(2281): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(2358): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(2359): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp.cpp(2719): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(2720): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(2864): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(2864): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+SuppostForApp.cpp(2867): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(2867): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+SuppostForApp.cpp(2870): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(2870): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+SuppostForApp.cpp(2871): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(2871): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+SuppostForApp.cpp(2872): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(2872): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+SuppostForApp.cpp(2881): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(2881): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+SuppostForApp.cpp(2882): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(2882): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+SuppostForApp.cpp(2915): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(2916): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(2917): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(2931): warning C4305: 'initializing': truncation from 'double' to 'float'
+SuppostForApp.cpp(2961): warning C4305: 'initializing': truncation from 'double' to 'float'
+SuppostForApp.cpp(3004): warning C4305: 'initializing': truncation from 'double' to 'float'
+SuppostForApp.cpp(4128): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(4129): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(4130): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(4162): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(4163): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(4164): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(4192): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(4193): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(4194): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(5035): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SuppostForApp.cpp(5046): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SuppostForApp.cpp(5057): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SuppostForApp.cpp(5068): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SuppostForApp.cpp(5082): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SuppostForApp.cpp(5094): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SuppostForApp.cpp(5106): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SuppostForApp.cpp(5118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SuppostForApp.cpp(5130): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SuppostForApp.cpp(5142): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SuppostForApp.cpp(5154): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SuppostForApp.cpp(5352): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+SuppostForApp.cpp(6480): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(6498): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(6539): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(6694): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp.cpp(7795): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7796): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7797): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7799): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7800): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7801): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7807): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7808): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7809): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7810): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7846): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7847): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7848): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7850): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7851): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7852): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7858): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7859): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7860): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7861): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7898): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7899): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7900): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7902): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7903): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7904): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7909): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7910): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7911): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7912): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7948): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7949): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7950): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7951): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7956): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7957): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7958): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7959): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7966): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7967): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7968): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7969): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7974): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7975): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7976): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7977): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7992): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7993): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7994): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7995): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(7999): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8000): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8001): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8002): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8008): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8009): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8010): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8011): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8015): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8016): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8017): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8018): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8022): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8023): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8024): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8025): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8029): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8030): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8031): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8032): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8036): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8037): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8038): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8039): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8048): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8049): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8050): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8051): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8066): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8067): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8068): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8069): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8074): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8075): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8076): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8077): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8090): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8091): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8092): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8093): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8098): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8099): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8100): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8101): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8147): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+SuppostForApp.cpp(8207): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+SuppostForApp.cpp(8346): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+SuppostForApp.cpp(8348): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8349): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8350): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8351): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8356): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8357): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8358): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8360): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8361): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8362): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8369): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8370): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8405): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8406): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8470): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+SuppostForApp.cpp(8472): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8473): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8474): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8475): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8481): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8482): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8483): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8484): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8978): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+SuppostForApp.cpp(8980): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8981): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8982): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8983): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8989): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8990): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8991): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8993): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8994): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(8995): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9002): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9003): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9052): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9053): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9102): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9103): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9151): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+SuppostForApp.cpp(9153): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9154): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9155): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9156): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9162): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9163): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9164): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9165): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9598): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9599): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9600): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9601): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9608): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+SuppostForApp.cpp(9612): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+SuppostForApp.cpp(9615): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9616): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9617): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9618): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9624): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+SuppostForApp.cpp(9628): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+SuppostForApp.cpp(9631): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9632): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9633): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9634): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9649): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+SuppostForApp.cpp(9651): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9652): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9653): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SuppostForApp.cpp(9654): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  SuppostForApp2.cpp
+SuppostForApp2.cpp(125): warning C4244: '=': conversion from 'GLdouble' to 'float', possible loss of data
+SuppostForApp2.cpp(126): warning C4244: '=': conversion from 'GLdouble' to 'float', possible loss of data
+SuppostForApp2.cpp(127): warning C4244: '=': conversion from 'GLdouble' to 'float', possible loss of data
+SuppostForApp2.cpp(216): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(217): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(464): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(465): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(532): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(533): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(641): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(642): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(859): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(860): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(990): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(991): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(1040): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(1041): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(1129): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(1130): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(1355): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(1356): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(1959): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(1960): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(2135): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(2136): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(2352): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(2353): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+SuppostForApp2.cpp(3026): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3032): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3046): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3047): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3048): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3049): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3056): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3057): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3088): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3161): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3163): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3169): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3179): warning C4305: 'initializing': truncation from 'double' to 'float'
+SuppostForApp2.cpp(3184): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3185): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3186): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3187): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3194): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3195): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3240): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3261): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3330): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3331): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3336): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3345): warning C4305: 'initializing': truncation from 'double' to 'float'
+SuppostForApp2.cpp(3350): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3351): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3352): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3353): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3360): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3361): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+SuppostForApp2.cpp(3449): warning C4244: '=': conversion from 'GLdouble' to 'float', possible loss of data
+SuppostForApp2.cpp(3450): warning C4244: '=': conversion from 'GLdouble' to 'float', possible loss of data
+SuppostForApp2.cpp(3451): warning C4244: '=': conversion from 'GLdouble' to 'float', possible loss of data
+SuppostForApp2.cpp(3553): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+SuppostForApp2.cpp(3573): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+SuppostForApp2.cpp(4215): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  SuppostForApp3.cpp
+  TorusAttribute.cpp
+  TriangleAttribute.cpp
+  TriangleFanAttribute.cpp
+  TriangleStripAttribute.cpp
+  vector.cpp
+  Generating code
+d:\opengl_c++\app_draw_3d\app_draw_3d\sqlserverconnect.cpp(1362): error C4703: potentially uninitialized local pointer variable 'stmt_handle' used
+d:\opengl_c++\app_draw_3d\app_draw_3d\sqlserverconnect.cpp(2349): error C4703: potentially uninitialized local pointer variable 'stmt_handle' used
+  All 2683 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: code generation failed

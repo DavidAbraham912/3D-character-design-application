@@ -1,0 +1,19 @@
+﻿  SuppostForApp3.cpp
+d:\opengl_c++\app_draw_3d\app_draw_3d\point.h(8): warning C4091: 'typedef ': ignored on left of 'point' when no variable is declared
+d:\opengl_c++\app_draw_3d\app_draw_3d\point.h(18): warning C4091: 'typedef ': ignored on left of 'itemChoice' when no variable is declared
+d:\opengl_c++\app_draw_3d\app_draw_3d\point.h(27): warning C4091: 'typedef ': ignored on left of 'itemRotateObject' when no variable is declared
+d:\opengl_c++\app_draw_3d\app_draw_3d\point.h(33): warning C4091: 'typedef ': ignored on left of 'itemTextureObject' when no variable is declared
+d:\opengl_c++\app_draw_3d\app_draw_3d\point.h(42): warning C4091: 'typedef ': ignored on left of 'PositionToAddRowOrColumn' when no variable is declared
+d:\opengl_c++\app_draw_3d\app_draw_3d\suppostforapp2.h(8): fatal error C1083: Cannot open include file: 'il.h': No such file or directory
+  SuppostForApp2.cpp
+d:\opengl_c++\app_draw_3d\app_draw_3d\suppostforapp2.h(8): fatal error C1083: Cannot open include file: 'il.h': No such file or directory
+  SqlServerConnect.cpp
+d:\opengl_c++\app_draw_3d\app_draw_3d\point.h(8): warning C4091: 'typedef ': ignored on left of 'point' when no variable is declared
+d:\opengl_c++\app_draw_3d\app_draw_3d\point.h(18): warning C4091: 'typedef ': ignored on left of 'itemChoice' when no variable is declared
+d:\opengl_c++\app_draw_3d\app_draw_3d\point.h(27): warning C4091: 'typedef ': ignored on left of 'itemRotateObject' when no variable is declared
+d:\opengl_c++\app_draw_3d\app_draw_3d\point.h(33): warning C4091: 'typedef ': ignored on left of 'itemTextureObject' when no variable is declared
+d:\opengl_c++\app_draw_3d\app_draw_3d\point.h(42): warning C4091: 'typedef ': ignored on left of 'PositionToAddRowOrColumn' when no variable is declared
+d:\opengl_c++\app_draw_3d\app_draw_3d\suppostforapp2.h(8): fatal error C1083: Cannot open include file: 'il.h': No such file or directory
+  Source.cpp
+d:\opengl_c++\app_draw_3d\app_draw_3d\source.cpp(6): fatal error C1083: Cannot open include file: 'il.h': No such file or directory
+  Generating Code...
