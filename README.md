@@ -1,5 +1,11 @@
 # 3D-character-design-application
 3D character design application with OpenGL, C ++ (Maya application simulation)
+-The application uses OpenGL Api graphics with libraries for OpenGl like Glut, Glew
+- Save temporary data to .txt file, save main data to Sql Server
+- Use algorithms, geometry,matrices and quaternion to translate and transform vertes
+- Export 3D characters into vertices arrays and save in file .txt,that can be displayed in games using OpenGL API
+- The problem of translate, transform, rounded corners, ... You must use math and geometry to do it. So, the application is fast or slow, beautiful or bad .All in the algorithm, not API.
+- API and library only support to show Object. It not caculating for you
 
 ![alt text](https://github.com/DavidAbraham912/3D-character-design-application/blob/master/opengl0.jpg)
 
