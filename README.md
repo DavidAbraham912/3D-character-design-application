@@ -51,6 +51,6 @@
 
 # For example
 
-![alt text](https://github.com/DavidAbraham912/3D-character-design-application/blob/master/start.png)
-![alt text](https://github.com/DavidAbraham912/3D-character-design-application/blob/master/end.png)
+![alt text](https://github.com/DavidAbraham912/3D-character-design-application/blob/master/start.jpg)
+![alt text](https://github.com/DavidAbraham912/3D-character-design-application/blob/master/end.jpg)
 
