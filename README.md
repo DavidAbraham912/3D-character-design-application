@@ -1,4 +1,4 @@
-# 3D-character-design-application
+# 3D-character-design-application (Developing)
 3D character design application with OpenGL, C ++ (Maya application simulation)
 
 - The application uses OpenGL Api graphics with libraries for OpenGl like Glut, Glew
