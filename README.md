@@ -54,3 +54,9 @@
 ![alt text](https://github.com/DavidAbraham912/3D-character-design-application/blob/master/start.jpg)
 ![alt text](https://github.com/DavidAbraham912/3D-character-design-application/blob/master/end.jpg)
 
+
+
+# Version 2: 2020 Incoming
+
+![alt text](https://github.com/DavidAbraham912/3D-character-design-application/blob/master/NewVersion.png)
+
